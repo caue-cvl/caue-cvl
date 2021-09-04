@@ -42,6 +42,15 @@
   <img align="center" height="45" width="100" src="https://icongr.am/simple/codeigniter.svg?size=148&color=EE4323"/>
 </div> 
 
+### Collaboration Tools
+  
+<div style="display: inline_block">   
+    <img align="center" height="38" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
+   <img align="center" height="38" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
+</div>
+  
+## Additional Facts  
+   
 ### Favorite IDEs  
   
 <div style="display: inline_block">  
@@ -49,20 +58,13 @@
   <img align="center" height="50" width="100" src="https://icongr.am/simple/visualstudiocode.svg?size=148&color=45AFF3"/>      
 </div>  
     
-### Education  
+### Favorite Education Platforms
   
 <div style="display: inline_block">  
   <img align="center" height="50" width="100" src="https://icongr.am/simple/youtube.svg?size=148&color=fe0000"/>
   <img align="center" height="50" width="100" src="https://icongr.am/simple/freecodecamp.svg?size=148&color=ffffff"/>  
   <img align="center" height="50" width="100" src="https://icongr.am/simple/udemy.svg?size=148&color=EC5252"/>    
 </div>    
-  
-### Collaboration Tools
-  
-<div style="display: inline_block">   
-    <img align="center" height="38" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
-   <img align="center" height="38" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
-</div>
   
 ## Social Media
 
