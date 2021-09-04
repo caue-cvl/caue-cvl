@@ -16,27 +16,52 @@
 ### Devops
   
 <div style="display: inline_block">
-  <img align="center" height="50" width="50" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=148&color=currentColor"/>
-  <img align="center" height="50" width="50" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="70" width="70" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=148&color=currentColor"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="70" width="100" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/grafana.svg?size=148&color=ff5900"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/jenkins.svg?size=148&color=ffffff"/>
+  <img align="center" height="70" width="100" src="https://icongr.am/simple/vmware.svg?size=148&color=858585"/>
 </div>  
   
 ### Languages
   
 <div style="display: inline_block"> 
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
-  <img align="center" height="45" width="45" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
 </div>
+  
+### Frameworks  
+  
+<div style="display: inline_block"> 
+  <img align="center" height="45" width="100" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="100" src="https://icongr.am/simple/codeigniter.svg?size=148&color=EE4323"/>
+</div> 
+
+### Favorite IDEs  
+  
+<div style="display: inline_block">  
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/sublimetext.svg?size=148&color=DB890F"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/visualstudiocode.svg?size=148&color=45AFF3"/>      
+</div>  
+    
+### Education  
+  
+<div style="display: inline_block">  
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/youtube.svg?size=148&color=fe0000"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/freecodecamp.svg?size=148&color=ffffff"/>  
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/udemy.svg?size=148&color=EC5252"/>    
+</div>    
   
 ### Collaboration Tools
   
 <div style="display: inline_block">   
-    <img align="center" height="38" width="40" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
-   <img align="center" height="38" width="40" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
+    <img align="center" height="38" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
+   <img align="center" height="38" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
 </div>
   
 ## Social Media
