@@ -2,8 +2,8 @@
 
 ## ('Hello World!')
 
-- 🔭 I’m currently working on Cyber Security.
-- 🌱 I’m currently learning Ethical Hacking.
+- 💻 I’m currently working on Cyber Security.
+- 👨‍🎓 I’m currently learning Ethical Hacking.
 
 <div>
   <a href="https://github.com/caue-cvl">
