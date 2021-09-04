@@ -16,21 +16,21 @@
 ### Devops
   
 <div style="display: inline_block">
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=148&color=currentColor"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=148&color=currentColor"/>
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000"/>
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
 </div>  
   
 ### Languages
   
 <div style="display: inline_block"> 
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
+  <img align="center" height="45" width="45" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
 </div>
   
 ### Collaboration Tools
