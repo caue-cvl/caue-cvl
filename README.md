@@ -17,7 +17,6 @@
   
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=148&color=currentColor"/>
-  <img align="center" height="50" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000"/>
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
   <img align="center" height="70" width="70" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
 </div>  
@@ -37,3 +36,5 @@
   
 <div style="display: inline_block">   
     <img align="center" height="38" width="40" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
+   <img align="center" height="38" width="40" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
+</div>
