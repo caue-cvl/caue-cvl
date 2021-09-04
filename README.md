@@ -38,3 +38,10 @@
     <img align="center" height="38" width="40" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
    <img align="center" height="38" width="40" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
 </div>
+  
+## Social Media
+
+<div style="display: inline_block">  
+  <a href=https://www.instagram.com/caue_cvl><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href=https://www.linkedin.com/in/caue-cavaliere><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
