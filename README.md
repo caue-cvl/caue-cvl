@@ -27,26 +27,26 @@
 ### Languages
   
 <div style="display: inline_block"> 
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=ffffff"/>
 </div>
   
 ### Frameworks  
   
 <div style="display: inline_block"> 
-  <img align="center" height="45" width="100" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
-  <img align="center" height="45" width="100" src="https://icongr.am/simple/codeigniter.svg?size=148&color=EE4323"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/codeigniter.svg?size=148&color=EE4323"/>
 </div> 
 
 ### Collaboration Tools
   
 <div style="display: inline_block">   
-    <img align="center" height="38" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
-   <img align="center" height="38" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
+    <img align="center" height="50" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
+   <img align="center" height="50" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
 </div>
   
 ## Additional Facts  
@@ -69,6 +69,6 @@
 ## Social Media
 
 <div style="display: inline_block">  
-  <a href=https://www.instagram.com/caue_cvl><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href=https://www.linkedin.com/in/caue-cavaliere><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=https://www.instagram.com/caue_cvl><img align="center" height="50" width="100" src="https://icongr.am/simple/instagram.svg?size=148&color=E4405F"/></a>
+  <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"/></a>
 </div>
