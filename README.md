@@ -69,6 +69,6 @@
 ## Social Media
 
 <div style="display: inline_block">  
-  <a href=https://www.instagram.com/caue_cvl><img align="center" height="50" width="100" src="https://icongr.am/simple/instagram.svg?size=148&color=E4405F"/></a>
+  <a href=https://www.instagram.com/caue_cvl><img align="center" height="50" width="100" src="https://icongr.am/simple/instagram.svg?size=148&color=ffffff"/></a>
   <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"/></a>
 </div>
