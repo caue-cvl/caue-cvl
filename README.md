@@ -20,7 +20,7 @@
   <img align="center" height="50" width="100" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
   <img align="center" height="70" width="100" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
   <img align="center" height="50" width="100" src="https://icongr.am/simple/grafana.svg?size=148&color=ff5900"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/simple/jenkins.svg?size=148&color=ffffff"/>
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/jenkins.svg?size=148&color=858585"/>
   <img align="center" height="70" width="100" src="https://icongr.am/simple/vmware.svg?size=148&color=858585"/>
 </div>  
   
@@ -62,13 +62,13 @@
   
 <div style="display: inline_block">  
   <img align="center" height="50" width="100" src="https://icongr.am/simple/youtube.svg?size=148&color=fe0000"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/simple/freecodecamp.svg?size=148&color=ffffff"/>  
+  <img align="center" height="50" width="100" src="https://icongr.am/simple/freecodecamp.svg?size=148&color=858585"/>  
   <img align="center" height="50" width="100" src="https://icongr.am/simple/udemy.svg?size=148&color=EC5252"/>    
 </div>    
   
 ## Social Media
 
 <div style="display: inline_block">  
-  <a href=https://www.instagram.com/caue_cvl><img align="center" height="50" width="100" src="https://icongr.am/simple/instagram.svg?size=148&color=ffffff"/></a>
+  <a href=https://www.instagram.com/caue_cvl><img align="center" height="50" width="100" src="https://icongr.am/simple/instagram.svg?size=148&color=858585"/></a>
   <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"/></a>
 </div>
