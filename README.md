@@ -19,7 +19,6 @@
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/376356/aws.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448274/azure.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448223/gcp.svg"/>
-  <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
 </div>
   
 ### Devops
@@ -28,6 +27,7 @@
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448236/linux.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448221/docker.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448233/kubernetes.svg"/>
+  <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448271/azure-devops.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448228/grafana.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/374008/prometheus.svg"/>
