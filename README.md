@@ -37,7 +37,7 @@
 
 <div style="display: inline_block">
   <img align="center" height="100" width="100" src="https://go.netskope.com/rs/665-KFP-612/images/Netskope-Stacked-Logo-Full-Color-RGB.svg"/>
-  <img align="center" height="100" width="100" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"> 
+  <img align="center" height="100" width="100" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/331579/sophos.svg"/>
 </div>
   
@@ -69,5 +69,5 @@
 ## Social Media
 
 <div style="display: inline_block">  
-  <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"/></a>
+  <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"></a>
 </div>
