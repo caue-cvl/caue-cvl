@@ -36,26 +36,26 @@
 ### Network
 
 <div style="display: inline_block">
-  <img align="center" height="100" width="100" src="https://go.netskope.com/rs/665-KFP-612/images/Netskope-Stacked-Logo-Full-Color-RGB.svg"/>
-  <img align="center" height="100" width="100" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"/>
+  <img align="center" height="40" width="100" src="https://go.netskope.com/rs/665-KFP-612/images/Netskope-Stacked-Logo-Full-Color-RGB.svg"/>
+  <img align="center" height="90" width="100" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/331579/sophos.svg"/>
 </div>
   
 ### Development
   
 <div style="display: inline_block"> 
-  <img align="center" height="50" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="60" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="60" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="60" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/354180/php.svg"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
+  <img align="center" height="60" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
 </div>
   
 ### Collaboration Tools
   
 <div style="display: inline_block">   
-    <img align="center" height="50" width="100" src="https://icongr.am/simple/atlassian.svg?size=148&color=2684FF"/>
-   <img align="center" height="50" width="100" src="https://icongr.am/simple/microsoftoffice.svg?size=148&color=EC3900"/>
+  <img align="center" height="50" width="100" src="https://www.svgrepo.com/show/353935/jira.svg"/>
+  <img align="center" height="100" width="100" src="https://www.svgrepo.com/show/303162/office-365-logo.svg"/>
 </div>
   
 ## Additional Facts  
@@ -63,11 +63,11 @@
 ### Favorite IDE  
   
 <div style="display: inline_block">  
-  <img align="center" height="50" width="100" src="https://icongr.am/simple/visualstudiocode.svg?size=148&color=45AFF3"/>      
+  <img align="center" height="60" width="100" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>      
 </div>  
   
 ## Social Media
 
 <div style="display: inline_block">  
-  <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="50" width="100" src="https://icongr.am/simple/linkedin.svg?size=148&color=0077B5"></a>
+  <a href=https://www.linkedin.com/in/caue-cavaliere><img align="center" height="60" width="100" src="https://www.svgrepo.com/show/448234/linkedin.svg"></a>
 </div>
