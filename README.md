@@ -13,6 +13,17 @@
   
 ## Skills
 
+### Cybersecurity Experience
+
+<div style="display: inline_block">
+  <img align="center" height="80" width="70" src="https://go.netskope.com/rs/665-KFP-612/images/Netskope-Stacked-Logo-Full-Color-RGB.svg"/>
+  <img align="center" height="90" width="90" src="https://dcloud.com.sa/wp-content/uploads/2022/10/Untitledsqdqsqsfqsd-2.png"/>
+  <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/303377/ibm-logo.svg"/>
+  <img align="center" height="80" width="80" src="https://images.ctfassets.net/eolgt3xbz2ko/4qHaPaB8s68ORgQdXR0zs8/b1b8517d35845bbcfe0624760ece7979/Qualys_Cloud_Platform-removebg-preview.png?w=500&h=500&q=50&fm=png&fit=pad"/>
+  <img align="center" height="90" width="90" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"/>
+  <img align="center" height="70" width="70" src="https://www.svgrepo.com/show/331579/sophos.svg"/>
+</div>
+
 ### Cloud
 
 <div style="display: inline_block">
@@ -32,14 +43,6 @@
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448228/grafana.svg"/>
   <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/374008/prometheus.svg"/>
 </div>  
-
-### Network
-
-<div style="display: inline_block">
-  <img align="center" height="40" width="100" src="https://go.netskope.com/rs/665-KFP-612/images/Netskope-Stacked-Logo-Full-Color-RGB.svg"/>
-  <img align="center" height="90" width="100" src="https://www.corporatearmor.com/wp-content/uploads/2019/10/fortinet-logo-1000-300x300.png"/>
-  <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/331579/sophos.svg"/>
-</div>
   
 ### Development
   
