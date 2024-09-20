@@ -17,8 +17,8 @@
   
 <div style="display: inline_block">
   <img align="center" height="50" width="100" src="https://www.svgrepo.com/show/376356/aws.svg"/>
-  <img align="center" height="50" width="100" src="https://icongr.am/devicon/debian-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="70" width="100" src="https://icongr.am/devicon/docker-original.svg?size=148&color=7952b3"/>
+  <img align="center" height="50" width="100" src="https://www.svgrepo.com/show/448274/azure.svg"/>
+  <img align="center" height="70" width="100" src="https://www.svgrepo.com/show/448236/linux.svg"/>
   <img align="center" height="50" width="100" src="https://icongr.am/simple/grafana.svg?size=148&color=ff5900"/>
   <img align="center" height="50" width="100" src="https://icongr.am/simple/jenkins.svg?size=148&color=858585"/>
   <img align="center" height="70" width="100" src="https://icongr.am/simple/vmware.svg?size=148&color=858585"/>
